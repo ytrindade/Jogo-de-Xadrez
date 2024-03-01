@@ -1,0 +1,14 @@
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.exe
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.deps.json
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.runtimeconfig.json
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.dll
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\bin\Debug\net6.0\Xadrez.pdb
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfoInputs.cache
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.AssemblyInfo.cs
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.dll
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\refint\Xadrez.dll
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.pdb
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\Xadrez.genruntimeconfig.cache
+C:\Users\OEM\OneDrive\Documentos\C# POO\Seção 12 - Projeto Sistema de jogo de xadrez\Xadrez\Xadrez\obj\Debug\net6.0\ref\Xadrez.dll
